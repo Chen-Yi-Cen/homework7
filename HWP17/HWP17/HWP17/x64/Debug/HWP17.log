@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\C_code\HW7\HWP17\HWP17\Main.c(12,11): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  HWP17.vcxproj -> C:\C_code\HW7\HWP17\HWP17\x64\Debug\HWP17.exe
